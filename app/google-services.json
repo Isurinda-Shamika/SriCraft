@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "543111778770",
+    "firebase_url": "https://sri-craft-f814b-default-rtdb.firebaseio.com",
+    "project_id": "sri-craft-f814b",
+    "storage_bucket": "sri-craft-f814b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543111778770:android:0bff54af861aa99dd1380b",
+        "android_client_info": {
+          "package_name": "com.example.sricraft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543111778770-it14v6e11vf13t9s699fn31k3596hn0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE_-RV29NAbVlaHFVTIgT9wjhCPgDW8Ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543111778770-it14v6e11vf13t9s699fn31k3596hn0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
